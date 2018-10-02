@@ -1,4 +1,8 @@
 {
+  "manifest_version":"2",
+  "name":"LauncH",
+  "description":"Quick Launch",
+  "version":"1.2",
   "icons":{"128":"lion.png"},
   "browser_action":{
     "default_icon":"lion.png",
